@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*_results.txt
+.idea/
+.vscode/
+
+# Embedded build output
+Debug/
+Release/
+Objects/
+Listings/
+*.o
+*.obj
+*.d
+*.crf
+*.lst
+*.map
+*.out
+*.uvguix.*
